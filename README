@@ -1,0 +1,4 @@
+A very simple wrapper around JSONPath[1] to operate on stdin. Requires python-spidermonkey[2]
+
+[1] http://goessner.net/articles/JsonPath/
+[2] http://code.google.com/p/python-spidermonkey/
